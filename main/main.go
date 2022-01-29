@@ -1,7 +1,7 @@
 package main
 
 import (
-	"com-nox-middleware-go/common"
+	"codeup.aliyun.com/com-nox-middleware-go/common"
 	"fmt"
 )
 
