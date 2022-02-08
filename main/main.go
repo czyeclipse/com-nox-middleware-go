@@ -1,8 +1,8 @@
 package main
 
 import (
-	"codeup.aliyun.com/600e8289640593207be3201e/matrix/chenzhiyong/com-nox-middleware-go/common"
 	"fmt"
+	"git.noxgroup.com/chenzhiyong/com-nox-middleware-go/common"
 )
 
 func main() {
