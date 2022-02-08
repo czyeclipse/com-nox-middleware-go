@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"git.noxgroup.com/chenzhiyong/com-nox-middleware-go.git/common"
+	"git.noxgroup.com/chenzhiyong/com-nox-middleware-go/common"
 )
 
 func main() {
