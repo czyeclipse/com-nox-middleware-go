@@ -1,3 +1,3 @@
-module git.noxgroup.com/chenzhiyong/com-nox-middleware-go
+module github.com/czyeclipse/com-nox-middleware-go
 
 go 1.17
